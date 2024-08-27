@@ -1,5 +1,6 @@
 .Tenho 16 ano
-.Não fi curso nenhum
+.Não fiz curso nenhum
 .Nunca trablhei 
 .Estou estudando 
-.Estou no 1ano aa noite
+.Estou no 1ano a noite
+.Estou como jovem aprendi
