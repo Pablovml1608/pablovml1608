@@ -3,4 +3,4 @@
 .Nunca trablhei 
 .Estou estudando 
 .Estou no 1ano a noite
-.Estou como jovem aprendi
+.Estou como jovem aprendiz
